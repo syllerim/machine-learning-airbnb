@@ -22,7 +22,7 @@ El enfoque recomendado es incremental, comenzando con soluciones simples y aumen
 
 * Análisis de correlaciones entre variables.
 
-###Preprocesamiento
+### Preprocesamiento
 
 * Eliminación de variables irrelevantes mediante:
 
@@ -34,7 +34,7 @@ El enfoque recomendado es incremental, comenzando con soluciones simples y aumen
 
 * Generación de variables relevantes.
 
-###Modelado
+### Modelado
 
 * Implementación de validación cruzada (cross-validation).
 
